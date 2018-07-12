@@ -15,8 +15,7 @@
 (HOL with Azure Notebook)
 
 ## 3. Fitting 
-* Over-fitting or Under-fitting </br>
-(HOL with Azure Notebook)
+* Over-fitting or Under-fitting
 
 ## 4. Model
 * (ETC...)
